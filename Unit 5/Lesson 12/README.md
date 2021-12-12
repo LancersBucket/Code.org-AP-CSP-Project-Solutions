@@ -1,0 +1,1 @@
+# This project uses a Switch switch statment. The alternate way to do this is using an If statment. Alternate code is provided.
